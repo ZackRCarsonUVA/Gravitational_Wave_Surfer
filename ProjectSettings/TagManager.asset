@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Electron
+  - Proton
+  - Neutron
+  - Anti-Proton
+  - Anti-Neutron
+  - Anti-Electron
+  - Particle_Parent
+  - Black Hole
+  - Particle Clump
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - No Collision
+  - Water
+  - UI
+  - Player
+  - Particles No Overlap
+  - Screen Edge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4275980729
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 862448501
+    locked: 0

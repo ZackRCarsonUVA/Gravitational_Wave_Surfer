@@ -1,0 +1,9 @@
+FederationHacker/Library
+FederationHacker/Temp
+
+*db.lock
+*UnityLockfile
+*ArtifactDB*
+Build/Build/Build.data
+Library/ArtifactDB
+Library/ArtifactDB-lock
